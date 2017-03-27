@@ -1,4 +1,5 @@
 # Core Vanilla JavaScript
+Grey Toucan Please see solo study Guide for my work.
 
 This repo contains resources, challenges and plans for learning the basics of Javascripts.
 
